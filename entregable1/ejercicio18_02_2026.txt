@@ -10,22 +10,22 @@ Inicio
     calcular result = num1+num2;
     mostrar result;
 
-    calcular result = num1-result
+    calcular result = num1-result;
     mostrar 
 
-    calcular result = num1/result
+    calcular result = num1/result;
     mostrar 
 
-    calcular result = num1*result
+    calcular result = num1*result;
     mostrar 
 
-    calcular result = num1//result
+    calcular result = num1//result;
     mostrar 
 
-    calcular result = num1%result
+    calcular result = num1%result;
     mostrar 
 
-    calcular result = num1**result
+    calcular result = num1**result;
     mostrar 
 
 fin
