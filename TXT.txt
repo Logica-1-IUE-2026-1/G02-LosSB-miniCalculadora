@@ -1,0 +1,18 @@
+Inicio
+Asignar const
+Escribir var
+calcular var + const
+imprimir = const + var
+calcular = result2 - const
+imprimir = result - const = result2
+calcular = result3 * const 
+imprimir = result2 * const = result3
+calcular = result4 / const 
+imprimir = result3 / const =  result4
+calcular = result5 // const
+imprimir = result4 // const = result5
+calcular = result6 % const
+imprimir = result5 % const = result6
+calcular = result7 ** const 
+imprimir = result6 ** const = result7
+fin
